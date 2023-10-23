@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongodb": "4.1",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "start": "^5.1.0"
+  }
+}
